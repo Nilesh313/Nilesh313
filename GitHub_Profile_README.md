@@ -11,7 +11,7 @@ HOW TO USE THIS FILE
 <h3 align="center">Full-Stack Software Engineer · Data Engineer · AI-Assisted Builder</h3>
 
 <p align="center">
-  <a href="[PORTFOLIO_URL](https://nilesh313.github.io/Portfolio/)" target="_blank"><b>🌐 View my full portfolio →</b></a>
+  <a href="https://nilesh313.github.io/Portfolio/" target="_blank"><b>🌐 View my full portfolio →</b></a>
   &nbsp;|&nbsp; 📍 Dublin, Ireland
 </p>
 
