@@ -283,7 +283,12 @@ Every skill below is pulled directly from my resumes across the four domains I w
 
 ![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![SAP OData Services](https://img.shields.io/badge/SAP_OData_Services-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP Fiori/UI5](https://img.shields.io/badge/SAP_Fiori_%2F_UI5-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP Build](https://img.shields.io/badge/SAP_Build-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP_(Cloud_Application_Programming)-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP OData APIs](https://img.shields.io/badge/SAP_OData_APIs-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Real-Time SAP Data Integration](https://img.shields.io/badge/Real--Time_SAP_Data_Integration-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Financial KPI Reporting on SAP](https://img.shields.io/badge/Financial_KPI_Reporting_on_SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
@@ -357,6 +362,18 @@ Every skill below is pulled directly from my resumes across the four domains I w
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh313&theme=dark&hide_border=true" />
 </p>
+
+---
+
+### 🌤️ Beyond the Code
+
+![Hiking](https://img.shields.io/badge/🥾_Hiking-4B5563?style=flat-square)
+![Fitness](https://img.shields.io/badge/💪_Fitness_Enthusiast-4B5563?style=flat-square)
+![Cricket](https://img.shields.io/badge/🏏_Cricket-4B5563?style=flat-square)
+![Football](https://img.shields.io/badge/⚽_Football-4B5563?style=flat-square)
+![Rugby](https://img.shields.io/badge/🏉_Rugby-4B5563?style=flat-square)
+![Volleyball](https://img.shields.io/badge/🏐_Volleyball-4B5563?style=flat-square)
+![Travel](https://img.shields.io/badge/🧭_Exploring_New_Places-4B5563?style=flat-square)
 
 ---
 
