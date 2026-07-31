@@ -8,12 +8,11 @@ HOW TO USE THIS FILE
 -->
 
 <h1 align="center">Hi, I'm Nilesh Choudhary 👋</h1>
-<h3 align="center">Full-Stack Software Engineer · Data Engineer · AI Engineer</h3>
+<h3 align="center">Full-Stack Software Engineer · Data Engineer · AI-Assisted Builder</h3>
 
 <p align="center">
-  <!-- <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
-  &nbsp;|&nbsp;  -->
-   📍 Dublin, Ireland
+  <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
+  &nbsp;|&nbsp; 📍 Dublin, Ireland
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@ HOW TO USE THIS FILE
   <a href="mailto:choudharynilesh592@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nilesh313.github.io/Portfolio/" target="_blank">
+  <a href="PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -279,6 +278,16 @@ Every skill below is pulled directly from my resumes across the four domains I w
 ![Data Validation](https://img.shields.io/badge/Data_Validation_%26_Quality-4B5563?style=flat-square)
 ![Data Governance](https://img.shields.io/badge/Data_Governance_(MSc_Module)-4B5563?style=flat-square)
 ![GDPR](https://img.shields.io/badge/GDPR_Compliance-4B5563?style=flat-square)
+
+#### 🧩 SAP Skills
+
+![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP OData Services](https://img.shields.io/badge/SAP_OData_Services-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Real-Time SAP Data Integration](https://img.shields.io/badge/Real--Time_SAP_Data_Integration-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Financial KPI Reporting on SAP](https://img.shields.io/badge/Financial_KPI_Reporting_on_SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+*Built a real-time dashboard consuming live SAP S/4HANA data via OData services, surfacing financial KPIs to executive stakeholders — see the [Financial Dashboard project](#-projects) above.*
 
 #### 🏗️ Data Engineering
 
