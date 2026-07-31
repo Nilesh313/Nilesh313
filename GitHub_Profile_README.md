@@ -8,12 +8,11 @@ HOW TO USE THIS FILE
 -->
 
 <h1 align="center">Hi, I'm Nilesh Choudhary 👋</h1>
-<h3 align="center">Full-Stack Software Engineer · Data Engineer · AI Engineer</h3>
+<h3 align="center">Full-Stack Software Engineer · Data Engineer · AI-Assisted Builder</h3>
 
 <p align="center">
-  <!-- <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
-  <!-- &nbsp;|&nbsp;  -->
-   📍 Dublin, Ireland
+  <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
+  &nbsp;|&nbsp; 📍 Dublin, Ireland
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@ HOW TO USE THIS FILE
   <a href="mailto:choudharynilesh592@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nilesh313.github.io/Portfolio/" target="_blank">
+  <a href="PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -51,6 +50,65 @@ My [portfolio site](PORTFOLIO_URL) covers everything below in more depth — liv
 | 📊 **Data Analytics & BI** | SQL, Power BI, Tableau, Excel/Power Query, KPI reporting |
 | 🏗️ **Data Engineering** | Databricks, Apache Spark, PySpark, Delta Lake, Medallion architecture, ETL/ELT |
 | 🤖 **AI & Machine Learning** | Scikit-learn, TensorFlow, AI-assisted development (Claude Code, Copilot, Cursor), agentic AI system design |
+
+---
+
+### 💼 Work Experience
+
+*(Click each role to expand — details, impact, and the tech behind it.)*
+
+<details>
+<summary><b>🖥️ Software Engineer · Deloitte Consulting Pvt. Ltd.</b> — Mumbai, India &nbsp; <code>Apr 2021 – Dec 2024</code></summary>
+<br>
+
+Full-stack engineer delivering production applications and data platforms for Financial Services and Insurance clients, spanning frontend, backend, data engineering, and cloud deployment.
+
+**Full-Stack Delivery**
+- Delivered 8+ production-grade full-stack applications — React/TypeScript front-ends integrated with Java/Spring Boot and Node.js backend services — serving 10,000+ users across North America, Europe, and Asia-Pacific with 99.9% uptime
+- Designed and built RESTful and OData APIs handling complex data models across 50+ operational workflows; reduced API response times from 2s to 500ms through query optimization
+- Implemented OAuth 2.0, RBAC, and JWT-based authentication and authorization across all applications
+
+**Data Engineering**
+- Built and optimized data-intensive ETL workflows using Apache Spark, PySpark, and Databricks, including hands-on work with Medallion (bronze/silver/gold) architecture via Delta Lake
+- Led database migrations and schema design, maintaining documentation of data structures and business rules to support governance and audit requirements
+
+**Cloud, Reliability & Delivery**
+- Deployed and orchestrated containerized microservices (Docker, Kubernetes) across 3 regions with automated CI/CD pipelines; reduced deployment time by 50%
+- Conducted root-cause analysis on 50+ production incidents and built observability into releases; cut incident resolution time by 30%
+- Achieved 98% test coverage using TDD; delivered 15+ feature releases with zero critical production bugs
+
+**Collaboration & AI-Assisted Workflow**
+- Partnered with 20+ cross-functional stakeholders across 15+ departments and global time zones; mentored junior engineers
+- Used AI-assisted tools (Claude Code, GitHub Copilot, Cursor) daily to accelerate development, debugging, and code review
+
+`React` `TypeScript` `Java` `Spring Boot` `Node.js` `Databricks` `PySpark` `Docker` `Kubernetes` `Azure` `AWS`
+
+</details>
+
+<details>
+<summary><b>📊 Data Analyst Intern · Tag8</b> — Mumbai, India &nbsp; <code>Feb 2021 – Mar 2021</code></summary>
+<br>
+
+- Automated Python, SQL, and Excel-based data workflows, reducing manual data processing time by 40%
+- Extracted and consolidated data from 5+ disparate sources into unified, validated datasets of 100,000+ records
+- Built 10+ interactive Tableau and Power BI dashboards for real-time business intelligence and KPI tracking
+
+`Python` `SQL` `Excel` `Tableau` `Power BI`
+
+</details>
+
+<br>
+
+<div align="center">
+
+| | Company | Role | Duration |
+|---|---|---|---|
+| 🖥️ | Deloitte Consulting Pvt. Ltd. | Software Engineer | Apr 2021 – Dec 2024 |
+| 📊 | Tag8 | Data Analyst Intern | Feb 2021 – Mar 2021 |
+
+</div>
+
+> 📄 Want the full picture, tailored bullets, and quantified impact? See the [Experience section of my portfolio](PORTFOLIO_URL).
 
 ---
 
