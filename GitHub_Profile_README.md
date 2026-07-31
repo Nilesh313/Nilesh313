@@ -11,9 +11,8 @@ HOW TO USE THIS FILE
 <h3 align="center">Full-Stack Software Engineer · Data Engineer · AI-Assisted Builder</h3>
 
 <p align="center">
-  <!-- <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a> -->
-  <!-- &nbsp;|&nbsp; -->
-📍 Dublin, Ireland
+  <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
+  &nbsp;|&nbsp; 📍 Dublin, Ireland
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@ HOW TO USE THIS FILE
   <a href="mailto:choudharynilesh592@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nilesh313.github.io/Portfolio/" target="_blank">
+  <a href="PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -110,6 +109,108 @@ Full-stack engineer delivering production applications and data platforms for Fi
 </div>
 
 > 📄 Want the full picture, tailored bullets, and quantified impact? See the [Experience section of my portfolio](PORTFOLIO_URL).
+
+---
+
+### 🚧 Projects
+
+*(Click a project to expand — from production work at Deloitte to self-directed and academic builds.)*
+
+#### 🖥️ Full-Stack
+
+<details>
+<summary><b>Global Procurement Platform</b> — Full-Stack Cloud Application <i>(Deloitte)</i></summary>
+<br>
+
+Component-driven React frontend with approval workflows and real-time order tracking, integrated with Java/Node.js backend microservices consuming REST/OData APIs. Optimized database queries, reducing load by 30%.
+
+`React` `Java` `Node.js` `REST` `OData`
+
+</details>
+
+#### 📊 Data Analytics
+
+<details>
+<summary><b>Financial Dashboard</b> — Real-Time Financial Data Integration <i>(Deloitte)</i></summary>
+<br>
+
+Real-time dashboard consuming live SAP S/4HANA data via OData services, surfacing financial KPIs to executive stakeholders. Optimized query performance from 2s to 500ms.
+
+`SAP S/4HANA` `OData` `Power BI`
+
+</details>
+
+<details>
+<summary><b>Business Analytics Dashboard</b> — Predictive Analytics & Insights <i>(Academic)</i></summary>
+<br>
+
+Analyzed 500,000+ customer records and engineered predictive/forecasting models using Python and SQL. Power BI dashboards integrating Salesforce CRM data contributed to a 22% churn reduction and 14% revenue growth.
+
+`Python` `SQL` `Power BI` `Salesforce CRM`
+
+</details>
+
+#### 🏗️ Data Engineering
+
+<details>
+<summary><b>Lakehouse Pipeline Practice</b> — Databricks & Delta Lake <i>(Self-Directed)</i></summary>
+<br>
+
+Batch data pipeline on Databricks using PySpark and Delta Lake in a Medallion (bronze/silver/gold) pattern — ACID-compliant, versioned table storage with schema evolution, time travel, and incremental upsert/merge processing. Apache Airflow DAGs for orchestration.
+
+`Databricks` `PySpark` `Delta Lake` `Apache Airflow`
+
+</details>
+
+<details>
+<summary><b>Scalable ETL Pipeline</b> — High-Volume Data Processing <i>(Academic)</i></summary>
+<br>
+
+End-to-end ETL pipeline using PySpark, processing 1M+ records daily with data validation, error handling, and monitoring. AWS S3 data lake integrated with a PostgreSQL data warehouse.
+
+`PySpark` `AWS S3` `PostgreSQL`
+
+</details>
+
+#### 🤖 AI & Machine Learning
+
+<details>
+<summary><b>Multi-Agent AI Platform</b> — Kafka Event-Driven Architecture <i>(Self-Directed)</i></summary>
+<br>
+
+Event-driven architecture using Kafka enabling asynchronous communication between AI agents and backend services (Python, FastAPI, PostgreSQL) — self-directed exploration of agent orchestration and AI service integration patterns.
+
+`Kafka` `Python` `FastAPI` `PostgreSQL`
+
+</details>
+
+<details>
+<summary><b>ML Fairness & Bias Mitigation</b> — Financial Risk Data <i>(Academic)</i></summary>
+<br>
+
+Built and compared logistic regression, random forest, and gradient-boosted tree (XGBoost/LightGBM) models on financial risk data. Improved fairness/anomaly-detection metrics by 25% while maintaining 85% accuracy across eight demographic groups.
+
+`Scikit-learn` `XGBoost` `LightGBM`
+
+</details>
+
+<br>
+
+<div align="center">
+
+| Project | Domain | Source |
+|---|---|---|
+| Global Procurement Platform | Full-Stack | Deloitte |
+| Financial Dashboard | Data Analytics | Deloitte |
+| Business Analytics Dashboard | Data Analytics | Academic |
+| Lakehouse Pipeline Practice | Data Engineering | Self-Directed |
+| Scalable ETL Pipeline | Data Engineering | Academic |
+| Multi-Agent AI Platform | AI / Agentic Systems | Self-Directed |
+| ML Fairness & Bias Mitigation | AI / Machine Learning | Academic |
+
+</div>
+
+> 📄 See live project cards on my [portfolio](PORTFOLIO_URL).
 
 ---
 
