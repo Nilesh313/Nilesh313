@@ -43,7 +43,7 @@ HOW TO USE THIS FILE
 
 ### 🚀 Portfolio Highlights
 
-My [portfolio site](PORTFOLIO_URL) covers everything below in more depth — live project cards, a skills breakdown by domain, and my full experience timeline:
+My portfolio covers everything below in more depth — live project cards, a skills breakdown by domain, and my full experience timeline:
 
 | Domain | What's there |
 |---|---|
