@@ -11,8 +11,9 @@ HOW TO USE THIS FILE
 <h3 align="center">Full-Stack Software Engineer · Data Engineer · AI-Assisted Builder</h3>
 
 <p align="center">
-  <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
-  &nbsp;|&nbsp; 📍 Dublin, Ireland
+  <!-- <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
+  &nbsp;|&nbsp;  -->
+   📍 Dublin, Ireland
 </p>
 
 <p align="center">
@@ -22,7 +23,7 @@ HOW TO USE THIS FILE
   <a href="mailto:choudharynilesh592@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="PORTFOLIO_URL" target="_blank">
+  <a href="https://nilesh313.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
