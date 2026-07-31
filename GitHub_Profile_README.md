@@ -11,8 +11,9 @@ HOW TO USE THIS FILE
 <h3 align="center">Full-Stack Software Engineer · Data Engineer · AI Engineer</h3>
 
 <p align="center">
-  <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
-  &nbsp;|&nbsp; 📍 Dublin, Ireland
+  <!-- <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
+  <!-- &nbsp;|&nbsp;  -->
+   📍 Dublin, Ireland -->
 </p>
 
 <p align="center">
