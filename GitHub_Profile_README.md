@@ -8,7 +8,7 @@ HOW TO USE THIS FILE
 -->
 
 <h1 align="center">Hi, I'm Nilesh Choudhary 👋</h1>
-<h3 align="center">Full-Stack Software Engineer · Data Engineer · AI-Assisted Builder</h3>
+<h3 align="center">Full-Stack Software Engineer · Data Engineer · Data Scientist · AI Engineer</h3>
 
 <p align="center">
   <!-- <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
