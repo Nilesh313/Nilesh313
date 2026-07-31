@@ -11,7 +11,7 @@ HOW TO USE THIS FILE
 <h3 align="center">Full-Stack Software Engineer · Data Engineer · AI-Assisted Builder</h3>
 
 <p align="center">
-  <!-- <a href="https://nilesh313.github.io/Portfolio/" target="_blank"><b>🌐 View my full portfolio →</b></a> -->
+  <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
   &nbsp;|&nbsp; 📍 Dublin, Ireland
 </p>
 
@@ -23,7 +23,7 @@ HOW TO USE THIS FILE
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="PORTFOLIO_URL" target="_blank">
-    <img src="https://nilesh313.github.io/Portfolio/" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -55,37 +55,124 @@ My [portfolio site](PORTFOLIO_URL) covers everything below in more depth — liv
 
 ### 🛠️ Tech Stack
 
+Every skill below is pulled directly from my resumes across the four domains I work in.
+
+#### 🖥️ Full-Stack Engineering
+
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-4B5563?style=flat-square)
+![Component-Driven Architecture](https://img.shields.io/badge/Component--Driven_Architecture-4B5563?style=flat-square)
 
 **Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![OData](https://img.shields.io/badge/OData-4B5563?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices_Architecture-4B5563?style=flat-square)
 
-**Data & Analytics**
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-
-**Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**Auth, Cloud & DevOps**
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4B5563?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4B5563?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_(GitHub_Actions)-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**AI-Assisted Development**
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+**Quality**
+![TDD](https://img.shields.io/badge/TDD-4B5563?style=flat-square)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Unit/Integration/API Testing](https://img.shields.io/badge/Unit%2FIntegration%2FAPI_Testing-4B5563?style=flat-square)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-4B5563?style=flat-square)
+
+#### 📊 Data Analytics & BI
+
+**Analysis & Reporting**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_(Advanced)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-4B5563?style=flat-square)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-4B5563?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-4B5563?style=flat-square)
+
+**Systems & Integration**
+![Salesforce](https://img.shields.io/badge/Salesforce_CRM-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Data Validation](https://img.shields.io/badge/Data_Validation_%26_Quality-4B5563?style=flat-square)
+![Data Governance](https://img.shields.io/badge/Data_Governance_(MSc_Module)-4B5563?style=flat-square)
+![GDPR](https://img.shields.io/badge/GDPR_Compliance-4B5563?style=flat-square)
+
+#### 🏗️ Data Engineering
+
+**Big Data & Pipelines**
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square)
+![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture_(Bronze%2FSilver%2FGold)-4B5563?style=flat-square)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT_Pipelines-4B5563?style=flat-square)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Snowflake Cortex](https://img.shields.io/badge/Snowflake_Cortex_%26_DocAI-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-4B5563?style=flat-square)
+
+**Python Ecosystem**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Database Migrations](https://img.shields.io/badge/Database_Migrations_%26_Schema_Design-4B5563?style=flat-square)
+
+**Currently Building**
+![dbt](https://img.shields.io/badge/dbt_Cloud_%2F_Core-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+#### 🤖 AI & Machine Learning
+
+**Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-4B5563?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-4B5563?style=flat-square)
+![Gradient-Boosted Trees](https://img.shields.io/badge/XGBoost_%2F_LightGBM-4B5563?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4B5563?style=flat-square)
+![Model Validation](https://img.shields.io/badge/Model_Validation-4B5563?style=flat-square)
+![Fairness & Bias Evaluation](https://img.shields.io/badge/Fairness_%26_Bias_Evaluation-4B5563?style=flat-square)
+
+**AI-Assisted & Agentic Engineering**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B5563?style=flat-square)
+![AI Agent Architecture](https://img.shields.io/badge/AI_Agent_Architecture_Design-4B5563?style=flat-square)
+
+#### 🎯 Core CS Fundamentals & Delivery
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-4B5563?style=flat-square)
+![Software Design Principles](https://img.shields.io/badge/Software_Design_Principles-4B5563?style=flat-square)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-4B5563?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 ---
 
