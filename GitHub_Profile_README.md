@@ -13,7 +13,7 @@ HOW TO USE THIS FILE
 <p align="center">
   <!-- <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
   <!-- &nbsp;|&nbsp;  -->
-   📍 Dublin, Ireland -->
+   📍 Dublin, Ireland
 </p>
 
 <p align="center">
