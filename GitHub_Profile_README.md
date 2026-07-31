@@ -11,9 +11,8 @@ HOW TO USE THIS FILE
 <h3 align="center">Full-Stack Software Engineer · Data Engineer · AI-Assisted Builder</h3>
 
 <p align="center">
-  <!-- <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
-  &nbsp;|&nbsp;  -->
-📍 Dublin, Ireland
+  <a href="PORTFOLIO_URL" target="_blank"><b>🌐 View my full portfolio →</b></a>
+  &nbsp;|&nbsp; 📍 Dublin, Ireland
 </p>
 
 <p align="center">
@@ -23,7 +22,7 @@ HOW TO USE THIS FILE
   <a href="mailto:choudharynilesh592@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nilesh313.github.io/Portfolio/" target="_blank">
+  <a href="PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -43,7 +42,7 @@ HOW TO USE THIS FILE
 
 ### 🚀 Portfolio Highlights
 
-My portfolio covers everything below in more depth — live project cards, a skills breakdown by domain, and my full experience timeline:
+My [portfolio site](PORTFOLIO_URL) covers everything below in more depth — live project cards, a skills breakdown by domain, and my full experience timeline:
 
 | Domain | What's there |
 |---|---|
@@ -98,6 +97,31 @@ Full-stack engineer delivering production applications and data platforms for Fi
 
 </details>
 
+<details>
+<summary><b>🛒 Customer Assistant · Tesco</b> — Dublin, Ireland &nbsp; <code>May 2026 – Present</code></summary>
+<br>
+
+- Deliver excellent customer service and assist customers with queries and purchases across day and night shifts
+- Operate tills, process cash/card transactions accurately, and follow company procedures
+- Replenish shelves, rotate stock, and maintain product availability, including stock deliveries and merchandising
+- Collaborate with team members to ensure efficient store operations during busy trading periods
+
+`Customer Service` `POS/Till Operations` `Stock Management`
+
+</details>
+
+<details>
+<summary><b>🍔 Customer Assistant, Burger Project · Maxol Spawell</b> — Dublin, Ireland &nbsp; <code>Apr 2025 – Jan 2026</code></summary>
+<br>
+
+- Provided friendly customer service, assisted with purchases, and handled payments accurately
+- Maintained clean, well-stocked shelves and attractive product displays; followed health, safety, and security procedures on the shop floor and forecourt
+- Supported food preparation and customer orders at the in-store Burger Project, delivering efficient, high-quality service
+
+`Customer Service` `Food Service` `Health & Safety`
+
+</details>
+
 <br>
 
 <div align="center">
@@ -106,6 +130,8 @@ Full-stack engineer delivering production applications and data platforms for Fi
 |---|---|---|---|
 | 🖥️ | Deloitte Consulting Pvt. Ltd. | Software Engineer | Apr 2021 – Dec 2024 |
 | 📊 | Tag8 | Data Analyst Intern | Feb 2021 – Mar 2021 |
+| 🛒 | Tesco | Customer Assistant | May 2026 – Present |
+| 🍔 | Maxol Spawell | Customer Assistant / Burger Project | Apr 2025 – Jan 2026 |
 
 </div>
 
